@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-🔭 I’m currently working at Manulife as a Software Engineer Intern creating a Desktop Application using Electron, React, and Typescript
+:mortar_board: I am a double degree student studying Computer Science @ UWaterloo and Business @ Laurier
+
+🔭  I’m currently working at Manulife as a Software Engineer Intern
+
+Love working with non-profits. Currently volunteering to create software at UW Blueprint and MAX Aspire
+
+[![Shehryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shehryar21)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Shehryar21/Shehryar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

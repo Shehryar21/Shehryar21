@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🔭 I’m currently working at Manulife as a Software Engineer Intern creating a Desktop Application using Electron, React, and Typescript
 <!--
 **Shehryar21/Shehryar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
 
 🔭  I’m currently working at Intuit as a Software Engineer Intern
 
-Love working with non-profits. Currently volunteering to create software at UW Blueprint and MAX Aspire
+Love working with non-profits. Volunteered to create software at UW Blueprint and MAX Aspire
 
 [![Shehryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shehryar21&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 

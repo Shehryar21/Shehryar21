@@ -2,7 +2,7 @@
 
 :mortar_board: I am a double degree student studying Computer Science @ UWaterloo and Business @ Laurier
 
-🔭  I’m currently working at Manulife as a Software Engineer Intern
+🔭  I’m currently working at Intuit as a Software Engineer Intern
 
 Love working with non-profits. Currently volunteering to create software at UW Blueprint and MAX Aspire
 

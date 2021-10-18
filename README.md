@@ -2,8 +2,6 @@
 
 :mortar_board: I am a double degree student studying Computer Science @ UWaterloo and Business @ Laurier
 
-🔭  I’m currently working at Intuit as a Software Engineer Intern
-
 Love working with non-profits. Volunteered to create software at UW Blueprint and MAX Aspire
 
 [![Shehryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shehryar21&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
